@@ -18,7 +18,7 @@ The purpose of this project is to determine the number of retiring employees per
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic2.PNG)
 
-#### 3. Sorted the Unique Titles table in ascending order by the employee number and descending order by the last date (i.e. to_date) of the most recent title.
+#### 3. retrieve the number of employees by their most recent job title who are about to retire.
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic3.PNG)
 
