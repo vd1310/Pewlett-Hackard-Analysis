@@ -18,7 +18,7 @@ The purpose of this project is to determine the number of retiring employees per
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic2.PNG)
 
-#### 3. retrieve the number of employees by their most recent job title who are about to retire.
+#### 3. Retrieve the number of employees by their most recent job title who are about to retire.
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic3.PNG)
 
