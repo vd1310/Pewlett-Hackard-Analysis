@@ -22,7 +22,7 @@ The purpose of this project is to determine the number of retiring employees per
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic3.PNG)
 
-#### 4. The number of employees by their most recent job title who are about to retire. Group by title, sorted the count column in descending order.
+#### 4.  Create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
 
 ![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic4.PNG)
 
