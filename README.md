@@ -5,7 +5,7 @@ The purpose of this project is to determine the number of retiring employees per
 
 ### Purpose
 ###### Determine the Number of Retiring Employees by Title
-###### Determin the Employees Eligible for the Mentorship Program
+###### Determine the Employees Eligible for the Mentorship Program
 ###### Summarize the results
 
 ## Results: 
@@ -33,7 +33,7 @@ The purpose of this project is to determine the number of retiring employees per
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 ##### There is 29414 Sr. Engineer, 28254 Senior staff, 14222 engineers, 12243 staff, 4502 technical leads, 1761 Asst. Mgr and 2 managers roles that would need to be filled before silver tsunami
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-#### No there are not sufficient quailified, returement ready employees in the department to mentor next generation of employees as the ratio is very less.
+#### No there are not sufficient qualified, retirement ready employees in the department to mentor next generation of employees as the ratio is very less.
 #### Engineer: 3
 #### Sr. Engineer: 3
 #### Senior staff: 6
